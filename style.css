@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(245, 218, 178);
+    text-align: center;
+}
+h1{
+    color: brown;
+    font-size: 60px;
+}
+img{
+    height: 600px;
+    width: 1000px;
+}
+.about{
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.box{
+    background-color: rgb(225, 183, 121);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    text-align: left;
+    font-size: 20px;
+}
+.para{
+    text-align: left;
+}
+.wiki{
+    font-size: 18px;
+}
